@@ -1,0 +1,1 @@
+import{o as s,c as e,a,N as o,_ as t,b as c}from"./index-vX4n_Us8.js";import{P as _}from"./Post-ZP_TO-Ji.js";const r={class:"relative"},p={__name:"BlogPostView",setup(i){return(l,n)=>(s(),e("div",r,[a(o,{class:"fixed w-full z-50"}),a(_),a(t),a(c)]))}};export{p as default};
