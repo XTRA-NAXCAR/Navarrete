@@ -11,7 +11,7 @@ import NavBar from '@/components/general/NavBar.vue';
 import Receive from '@/components/general/Receive.vue';
 import Contact from '@/components/home/Contact.vue';
 import Footer from '@/components/general/Footer.vue';
-import image from '@/assets/images/contact/imagen2.jpg';
+import image from '@/assets/images/contact/imagen2.gif';
 
 const content = {
     sentence: 'Deja que tus ideas toquen base. Estamos listos para escucharte y convertir tus visiones en realidad.',

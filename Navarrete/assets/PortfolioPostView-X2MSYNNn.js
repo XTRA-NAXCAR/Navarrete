@@ -1,0 +1,1 @@
+import{o as s,c as e,a,N as o,_ as t,b as c}from"./index-i5OdQPY8.js";import{P as r}from"./Post-hFTI6N2L.js";const _={class:"relative"},p={__name:"PortfolioPostView",setup(i){return(l,n)=>(s(),e("div",_,[a(o,{class:"fixed w-full z-50"}),a(r),a(t),a(c)]))}};export{p as default};
